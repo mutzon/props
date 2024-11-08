@@ -5,16 +5,4 @@ export const s = StyleSheet.create({
     flex: 1,
     backgroundColor: "red",
   },
-  workspace: {
-    flex: 1,
-    backgroundColor: "green",
-    // justifyContent: "center",
-    // flexDirection: "row",
-  },
-  content: {
-    flex: 2,
-    backgroundColor: "blue",
-    justifyContent: "center",
-    flexDirection: "row",
-  },
 });
